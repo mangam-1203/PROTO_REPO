@@ -1,6 +1,6 @@
 syntax = "proto2";
 
-package hello7;
+package hello9;
 
 service HelloService {
   rpc SayHello(HelloRequest) returns (HelloResponse);
